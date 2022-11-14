@@ -1,0 +1,456 @@
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll
+C:\Users\neyme\source\repos\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+C:\Users\neyme\source\repos\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\nemet.a\Desktop\ExamProject\ExamProject\bin\Debug\net6.0\libman.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\libman.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+F:\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.dll
+F:\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.pdb
+F:\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.pdb
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+F:\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+F:\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+F:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+F:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+F:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+F:\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+F:\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\libman.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+D:\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.dll
+D:\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.pdb
+D:\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.pdb
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+D:\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+D:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+D:\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+D:\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+D:\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\libman.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\appsettings.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\libman.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.staticwebassets.runtime.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.exe
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.deps.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.runtimeconfig.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.RazorAssemblyInfo.cs
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\Views\Shared\MyLayout.cshtml.rz.scp.css
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\bundle\ExamProject.styles.css
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\scopedcss\projectbundle\ExamProject.bundle.scp.css
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\refint\ExamProject.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ExamProject.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\ExamProject\obj\Debug\net6.0\ref\ExamProject.dll

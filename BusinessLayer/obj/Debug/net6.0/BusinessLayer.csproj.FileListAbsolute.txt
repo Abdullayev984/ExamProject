@@ -1,0 +1,95 @@
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+C:\Users\nemet.a\Desktop\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+F:\ExamProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+D:\ExamProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\ExamProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

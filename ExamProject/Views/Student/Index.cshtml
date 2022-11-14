@@ -1,0 +1,38 @@
+﻿@model List<EntityLayer.DTOs.StudentDTOs.StudentToListDTO>
+
+@{
+    Layout = "MyLayout";
+}
+
+<table class="table table-bordered">
+    <thead class="table-active">
+        <tr>
+            <td>Şagird nömrəsi</td>
+            <td>Adı</td>
+            <td>Soyadı</td>
+            <td>Sinifi</td>
+            <td>Delete</td>
+            <td>Update</td>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+
+                <td>@item.StudentId</td>
+                <td>@item.StudentName</td>
+                <td>@item.StudentSurname</td>
+                <td>@item.Grade</td>
+                <td><a href="/Student/Delete/@item.StudentId" class="btn btn-danger", onclick="return confirm ('Do you want to delete ?')" >Delete</a></td>
+            
+                <td>@Html.ActionLink("Update","CreateStudent","Student",new  { id = item.StudentId },new  {@class="btn btn-success" })</td>
+                
+            </tr>
+
+        }
+    </tbody>
+</table>
+<a href="/Student/CreateStudent" class="btn btn-primary">Create</a>

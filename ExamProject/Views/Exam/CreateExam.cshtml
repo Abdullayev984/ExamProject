@@ -1,0 +1,32 @@
+﻿@model EntityLayer.DTOs.ExamDTOs.ExamToAddorUpdateDTO
+
+<form asp-controller="Exam" asp-action="AddExam" method="post">
+      <div class="form-group">
+        
+    <input type="text" asp-for="ExamId" class="form-control" id="name"  hidden>
+          
+
+    </div>
+    <div class="form-group">
+        <label>Ders kodu</label>
+    <input type="text" asp-for="LessonCode" class="form-control" id="name"   >
+            <span asp-validation-for="LessonCode" style="color:red"></span>
+       
+
+    </div>
+    <div class="form-group">
+        <label>Sagird nomresi</label>
+        <input type="text" asp-for="StudentId" class="form-control" id="name" maxlength="3">
+        <span asp-validation-for="StudentId" style="color:red"></span>
+        <h6 style="color:red">@ViewBag.mesage</h6>
+
+    </div>
+     <div class="form-group">
+        <label>Qiymeti</label>
+        <input type="text" asp-for="Score" class="form-control" id="name"  maxlength="1" >
+        <span asp-validation-for="Score" style="color:red"></span>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

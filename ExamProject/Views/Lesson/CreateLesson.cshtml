@@ -1,0 +1,43 @@
+﻿
+@model  EntityLayer.DTOs.LessonDTOs.LessonToAddorUpdateDTO
+<form asp-controller="Lesson" asp-action="AddLesson" method="post">
+      <div class="form-group">
+       
+    <input type="text" asp-for="LessonId" class="form-control" id="name"  hidden>
+  
+
+    </div>
+    <div class="form-group">
+        <label>Dərs kodu</label>
+    <input type="text" asp-for="LessonCode" class="form-control" id="name" placeholder="Enter LessonCode..." >
+        <span asp-validation-for="LessonCode" style="color:red" minlength="1"></span>
+
+    </div>
+    <div class="form-group">
+        <label>Dərs adı</label>
+        <input type="text" asp-for="LessonName" class="form-control" id="name" placeholder="Enter Lesson Name...">
+        <span asp-validation-for="LessonName" style="color:red"></span>
+
+    </div>
+    <br />
+    <div class="form-group">
+        <label>Sinifi</label>
+        <input type="text" asp-for="Grade" class="form-control" id="name" placeholder="Enter Grade ..." maxlength="2">
+        <span asp-validation-for="Grade" style="color:red"></span>
+        <h6 style="color:red">@ViewBag.mesage</h6>
+
+    </div>
+    <div class="form-group">
+        <label>Müellim adı</label>
+        <input type="text" asp-for="TeacherName" class="form-control" id="name" placeholder="Enter TeacherName...">
+        <span asp-validation-for="TeacherName" style="color:red"></span>
+
+    </div>
+     <div class="form-group">
+        <label>Müellim soyadı</label>
+        <input type="text" asp-for="TeacherSurname" class="form-control" id="name" placeholder="Enter TeacherName...">
+        <span asp-validation-for="TeacherSurname" style="color:red"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

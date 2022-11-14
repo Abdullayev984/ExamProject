@@ -1,0 +1,85 @@
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\nemet.a\Desktop\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+F:\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+F:\ExamProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\ExamProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\ExamProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

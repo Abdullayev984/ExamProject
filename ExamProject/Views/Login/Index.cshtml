@@ -1,0 +1,89 @@
+﻿@model EntityLayer.DTOs.UserDTOs.LoginViewModel
+@{
+    Layout = null;
+}
+<html>
+
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>Login</title>
+</head>
+<body>
+    <section class="h-100 gradient-form" style="background-color: #eee;">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-xl-10">
+                    <div class="card rounded-3 text-black">
+                        <div class="row g-0">
+                            <div class="col-lg-6">
+                                <div class="card-body p-md-5 mx-md-4">
+
+                                    <div class="text-center">
+                                        <img src="~/images/images.png" class="brand_logo_container">
+
+                                    
+                                    </div>
+
+
+
+                                    <form asp-controller="Login" asp-action="Index" method="post" id="form">
+                                        <br />
+                                        <h4 style="color:red">Please login to your account</h4>
+
+                                        <div class="form-outline mb-4">
+                                            <label class="form-label" for="name">Username</label>
+
+                                            <input type="text" asp-for="UserName" class="form-control" id="name"
+                                                   placeholder="Enter Username...">
+                                            <span asp-validation-for="UserName" style="color:red"></span>
+                                        </div>
+
+                                        <div class="form-outline mb-4">
+                                            <label class="form-label" for="form2Example22">Password</label>
+                                            <input type="password" required="false" id="form2Example22" class="form-control"
+                                                   asp-for="Password" placeholder="Enter Password..." />
+                                            <span asp-validation-for="Password" style="color:red"></span>
+                                            @if (ViewBag.dgr != null)
+                                            {
+                                                <div style="color:red">  @ViewBag.dgr</div>
+                                            }
+                                        </div>
+
+                                        <div class="text-center pt-1 mb-5 pb-1">
+                                            <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="submit">
+                                                Log
+                                                in
+                                            </button>
+
+                                        </div>
+
+                                        <div class="d-flex align-items-center justify-content-center pb-4">
+                                            <p class="mb-0 me-2">Don't have an account?</p>
+                                            <a asp-controller="Register" asp-action="Index" class="ml-2">Sign Up</a>
+                                        </div>
+
+
+
+
+                                    </form>
+
+
+
+                                </div>
+                            </div>
+                            <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                                <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

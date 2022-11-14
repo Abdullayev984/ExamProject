@@ -1,0 +1,41 @@
+﻿@model  List< EntityLayer.DTOs.ExamDTOs.ExamToListDTO>
+@{
+    Layout = "MyLayout";
+}
+
+<table class="table table-bordered">
+    <thead class="table-active">
+        <tr>
+            <td>Dərs kodu</td>
+            <td>Sagird  nomresi</td>
+           
+            <td>Imtahan tarixi adı</td>
+            <td>Qiymeti</td>
+            <td>Delete</td>
+            <td>Update</td>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+
+                <td>@item.LessonCode</td>
+                <td>@item.StudentId</td>
+               
+                <td>@item.ExamDate</td>
+                <td>@item.Score</td>
+                  
+                <td><a href="/Exam/Delete/@item.ExamId" class="btn btn-danger", onclick="return confirm ('Do you want to delete ?')" >Delete</a></td>
+            
+                <td>@Html.ActionLink("Update","CreateExam","Exam",new  { examId = item.ExamId },new  {@class="btn btn-success" })</td>
+                
+            </tr>
+
+        }
+    </tbody>
+</table>
+<a href="/Exam/CreateExam
+" class="btn btn-primary">Create</a>

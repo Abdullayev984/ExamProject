@@ -1,0 +1,43 @@
+﻿@model List<EntityLayer.DTOs.LessonDTOs.LessonToListDTO>
+
+@{
+    Layout = "MyLayout";
+}
+
+<table class="table table-bordered">
+    <thead class="table-active">
+        <tr>
+            <td>Dərs kodu</td>
+            <td>Dərs adı</td>
+            <td>Sinifi</td>
+            <td>Müəllimin adı</td>
+            <td>Müəllimin soyadı</td>
+            <td>Delete</td>
+            <td>Update</td>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+
+                <td>@item.LessonCode</td>
+                <td>@item.LessonName</td>
+                <td>@item.Grade</td>
+                <td>@item.TeacherName</td>
+                <td>@item.TeacherSurname</td>
+                <td><a href="/Lesson/Delete/@item.LessonId" class="btn btn-danger", onclick="return confirm ('Do you want to delete ?')" >Delete</a></td>
+            
+                <td>@Html.ActionLink("Update","CreateLesson","Lesson",new  { LessonId = item.LessonId },new  {@class="btn btn-success" })</td>
+                
+            </tr>
+
+        }
+    </tbody>
+</table>
+<a href="/Lesson/CreateLesson" class="btn btn-primary">Create</a>
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

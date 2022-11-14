@@ -1,0 +1,70 @@
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\nemet.a\Desktop\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+F:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+F:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+F:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+F:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+F:\ExamProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+D:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+D:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+D:\ExamProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\ExamProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\nemet.a\Downloads\Tasks (1)\Tasks\ExamProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
